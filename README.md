@@ -11,10 +11,8 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
-<div align=center>
-![头像](image/102940815.jpg)
+![im](image/102940815.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/JQ-Origin/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=JQ-Origin.
-</div>
