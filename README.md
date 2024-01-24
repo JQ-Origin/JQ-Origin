@@ -14,6 +14,8 @@
 
 </div>
 <div align=center><img src="image/102940815.jpg" alt="ME"></div>
+
+
 ![Visitor Count](https://profile-counter.glitch.me/JQ-Origin/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=JQ-Origin.
