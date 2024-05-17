@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 
 
-#### <div align="center">![](https://komarev.com/ghpvc/?username=JQ-Origin&label=views-count)</div>
+#### <div align="center">![](https://xj.359674.xyz/telemetry/clnzoxcy10001vy2ohi4obbi0/clwalzrwb002anw4lf0933bv9/badge.svg)</div>
 
 </div>
 <div align=center><img src="image/102940815.jpg" alt="ME"></div>
