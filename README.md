@@ -9,7 +9,7 @@
 [![go](https://img.shields.io/badge/Code-Golang-blue)]() 
 [![Python](https://img.shields.io/badge/Code-Python-green)]() 
 [![php](https://img.shields.io/badge/Code-PHP-yello)]() 
-[![Rust](https://img.shields.io/badge/Code-PHP-red)]()  
+[![Rust](https://img.shields.io/badge/Code-Rust-red)]()  
 
 
 #### <div align="center">![](https://komarev.com/ghpvc/?username=JQ-Origin&label=views-count)</div>
